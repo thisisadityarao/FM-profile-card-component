@@ -1,0 +1,14 @@
+:root {
+  darkcyan: hsl(185, 75%, 39%);
+  darkblue: hsl(229, 23%, 23%);
+  darkgray: hsl(0, 0%, 59%);
+  darkgrayishblue: hsl(227, 10%, 46%);
+}
+
+body {
+  padding: 1rem;
+  display: grid;
+  place-content: center;
+  font-family: "Kumbh Sans", "sans-serif";
+  font-size: 1.125rem;
+}
