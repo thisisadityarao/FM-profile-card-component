@@ -11,9 +11,6 @@ body {
   font-size: 1.125rem;
   color: var(--darkgray);
   background-color: var(--darkcyan);
-  background-image: url(./images/bg-pattern-bottom.svg);
-  background-repeat: no-repeat;
-  background-position: top left;
 }
 
 main {
