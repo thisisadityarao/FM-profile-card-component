@@ -87,7 +87,10 @@ body:after {
   text-align: center;
   border-top: 1px solid #e5e5e5;
 }
-
+.info .bold {
+  display: inline;
+  font-size: 1.125rem;
+}
 .bold:not(.info .bold),
 .small {
   display: block;
